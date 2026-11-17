@@ -3,7 +3,7 @@
 }
 .elem1 {
     position: absolute;
-    top: 30px;
+    top: 250px;
     left: 30px;
 
     width: 100px;
@@ -13,7 +13,7 @@
 
 .elem2 {
     position: absolute;
-    top: 150px;
+    top: 250px;
     left: 160px;
 
     width: 100px;
@@ -23,7 +23,7 @@
 
 .elem3 {
     position: absolute;
-    top: 270px;
+    top: 250px;
     left: 290px;
 
     width: 100px;
