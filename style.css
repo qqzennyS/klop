@@ -85,3 +85,51 @@
     background-color: rgb(72, 255, 0);
     border-radius: 50px;
 }
+#parentface{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    margin: 40px auto;  
+    border: 1px solid #4DEE99;;
+    background-color: #4DEE99;
+    border-radius: 550px;
+}
+#child6 {
+    position: absolute;
+    margin: auto;
+    position: absolute;
+    top: 90px;
+    left: 110px;
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    border-radius: 50px;
+}
+#child7 {
+    position: absolute;
+    margin: auto;
+    position: absolute;
+    top: 90px;
+    right: 110px;
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    border-radius: 50px;
+}
+#child8 {
+    position: absolute;
+    top: 220px;
+    left: 215px;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    background-color: white;
+}
+#child9 {
+    position: absolute;
+    bottom: 90px;
+    left: 150px;
+    width: 200px;
+    height: 25px;
+    background-color: white;
+}
