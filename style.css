@@ -54,7 +54,7 @@
 #child3 {
     position: absolute;
     margin: auto;
-    top: 20px;
+    top: 90px;
     left: 100px;
     width: 100px;
     height: 100px;
@@ -77,7 +77,7 @@
 #child5 {
     position: absolute;
     margin: auto;
-    bottom: 20px;
+    bottom: 120px;
     left: 100px;
     width: 100px;
     height: 100px;
