@@ -133,3 +133,54 @@
     height: 25px;
     background-color: white;
 }
+#parentclown{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    margin: 40px auto;  
+    border: 1px solid #C4CD14;;
+    background-color: #C4CD14;
+    border-radius: 550px;
+}
+#child10 {
+    position: absolute;
+    margin: auto;
+    position: absolute;
+    top: 90px;
+    left: 110px;
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    border-radius: 50px;
+}
+#child11 {
+    position: absolute;
+    margin: auto;
+    position: absolute;
+    top: 90px;
+    right: 110px;
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    border-radius: 50px;
+}
+#child12 {
+    position: absolute;
+    top: 240px;
+    left: 215px;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    background-color: white;
+    border-radius: 50px;
+}
+#child13 {
+    position: absolute;
+    bottom: 70px;
+    left: 125px;
+    width: 250px;
+    height: 150px;
+    border-bottom: 40px solid white;
+    border-radius: 100%;
+    margin: auto;
+}
